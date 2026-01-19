@@ -37,7 +37,7 @@
 1. 저장소 클론 또는 다운로드
 ```bash
 git clone [repository-url]
-cd 44.\ 한글초성\ 게임
+cd KOREAN-INIT-GAME
 ```
 
 2. 브라우저에서 `index.html` 파일 열기
@@ -47,7 +47,7 @@ cd 44.\ 한글초성\ 게임
 ### 파일 구조
 
 ```
-44. 한글초성 게임/
+KOREAN-INIT-GAME/
 ├── index.html          # 메인 게임 파일
 ├── words.js            # 게임 데이터 (단어 및 힌트)
 ├── splash.jpg          # 스플래시 이미지
