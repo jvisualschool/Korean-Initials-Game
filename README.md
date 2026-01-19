@@ -4,18 +4,6 @@
 
 **🎮 [Live Demo](https://jvibeschool.org/KRINIT/)**
 
-## 📸 스크린샷
-
-<div align="center">
-  <img src="./screenshot/screenshot1.png" width="45%" alt="메인 화면" />
-  <img src="./screenshot/screenshot2.png" width="45%" alt="게임 화면" />
-</div>
-
-<div align="center">
-  <img src="./screenshot/screenshot3.png" width="45%" alt="정답 확인" />
-  <img src="./screenshot/screenshot4.png" width="45%" alt="스플래시 모달" />
-</div>
-
 ## 🎮 게임 소개
 
 **초성 맞추기**는 한글의 초성(자음)만 보고 단어를 맞추는 두뇌 게임입니다. 7개의 카테고리(나라, 음식, 동물, 영화, 스포츠, 직업, 과일)에서 다양한 문제를 풀 수 있습니다.
