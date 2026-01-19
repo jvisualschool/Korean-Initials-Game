@@ -4,7 +4,17 @@
 
 **🎮 [Live Demo](https://jvibeschool.org/KRINIT/)**
 
-![Game Screenshot](./screenshot/screenshot1.png)
+## 📸 스크린샷
+
+<div align="center">
+  <img src="./screenshot/screenshot1.png" width="45%" alt="메인 화면" />
+  <img src="./screenshot/screenshot2.png" width="45%" alt="게임 화면" />
+</div>
+
+<div align="center">
+  <img src="./screenshot/screenshot3.png" width="45%" alt="정답 확인" />
+  <img src="./screenshot/screenshot4.png" width="45%" alt="스플래시 모달" />
+</div>
 
 ## 🎮 게임 소개
 
